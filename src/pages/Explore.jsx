@@ -14,27 +14,7 @@ function Explore() {
       </header>
 
       <main>
-        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-          <div class="carousel-inner slider-div">
-            <div class="carousel-item active">
-              <img src="https://images.pexels.com/photos/4512970/pexels-photo-4512970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" className="d-block w-100 sliderclass" alt="..." />
-            </div>
-            <div class="carousel-item">
-              <img src="https://images.pexels.com/photos/10628388/pexels-photo-10628388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" className="d-block w-100 sliderclass" alt="..." />
-            </div>
-            <div class="carousel-item">
-              <img src="https://images.pexels.com/photos/1642125/pexels-photo-1642125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" className="d-block w-100 sliderclass" alt="..." />
-            </div>
-          </div>
-          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-          </button>
-          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-          </button>
-        </div>
+        
 
         <p className='exploreCategoryHeading'>Categories</p>
         <div className='exploreCategories'>

@@ -58,8 +58,9 @@ button {
 }
 /* explore slider */
 .slider-div{
-  height: 67vh;
+  height: 57vh;
   content: normal;
+  position: relative;
 }
 
 .primaryButton {
